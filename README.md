@@ -31,7 +31,7 @@ Welcome to Simple Blackjack Game, a straightforward implementation of the classi
 - `index.html`: The main HTML file for the game interface.
 - `index.css`: CSS file for styling the game interface.
 - `index.js`: JavaScript file containing the game logic.
-- `images/`: Directory containing image assets for the game (e.g., card images).
+- `array.js`: A JavaScript playground for testing and experimenting 
 
 ## Contributing
 
